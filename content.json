@@ -1,0 +1,105 @@
+{
+ "txt": {
+  "Frase de abertura": "Desenho para que a tua marca seja *lembrada*, não apenas vista.",
+  "Título do percurso": "Cada marca tem uma história por contar.",
+  "Texto do percurso": "Sou designer de mídia e trabalho com identidade visual, design editorial, 3D e interfaces digitais. Gosto de ouvir primeiro, porque o design que funciona nasce de perceber quem está do outro lado do ecrã.",
+  "Título das habilidades": "O que levo para cada projecto.",
+  "Texto das habilidades": "Cada coluna é uma ferramenta que uso para transformar uma ideia tua em algo que se vê, se toca e se usa. As que ainda estou a afinar estão a tracejado, porque aprender faz parte do ofício.",
+  "Frase sobre código": "Do papel ao pixel e ao código: desenho a peça e também a construo no navegador, sem perder a ideia pelo caminho.",
+  "Título dos projectos": "Trabalho feito com intenção.",
+  "Título do contacto": "Conta-me a tua ideia.",
+  "Texto do contacto": "Escreve o essencial e a conversa continua no WhatsApp."
+ },
+ "sk": [
+  [
+   "Photoshop",
+   "Ps",
+   92,
+   ""
+  ],
+  [
+   "Illustrator",
+   "Ai",
+   85,
+   ""
+  ],
+  [
+   "InDesign",
+   "Id",
+   85,
+   ""
+  ],
+  [
+   "After Effects",
+   "Ae",
+   15,
+   "learn"
+  ],
+  [
+   "Figma",
+   "UI/UX",
+   50,
+   "learn"
+  ],
+  [
+   "Blender",
+   "3D",
+   70,
+   ""
+  ],
+  [
+   "HTML",
+   "estrutura",
+   80,
+   ""
+  ],
+  [
+   "CSS",
+   "estilo",
+   75,
+   ""
+  ],
+  [
+   "JavaScript",
+   "interação",
+   55,
+   "learn"
+  ]
+ ],
+ "pj": {
+  "app": {
+   "t": "App de Roupas e Acessórios",
+   "c": "UI / UX · Comércio de moda",
+   "d": "Design de interface (UI/UX) para um aplicativo de e-commerce de moda. Foco numa jornada do cliente intuitiva, com estética moderna e navegação fluida.",
+   "o": "Explorar uma experiência de compra digital para moda, tornando a descoberta de peças e o acesso à informação do produto simples e directos.",
+   "a": "A interface organiza-se em torno de uma peça em destaque, informação essencial de produto e uma chamada de descoberta.",
+   "r": "Escreve aqui o resultado ou o que aprendeste com este projecto.",
+   "b": "Uma jornada de compra simples, pensada para quem decide em segundos."
+  },
+  "cafe": {
+   "t": "Identidade Visual para Café",
+   "c": "Identidade · Café artesanal",
+   "d": "Desenvolvimento de marca para um café artesanal: logotipo, aplicação em embalagens, roupas de trabalho e papelaria.",
+   "o": "Investigar uma linguagem visual para café artesanal, com uma embalagem que comunica origem, cuidado e carácter.",
+   "a": "Tipografia de presença, tons naturais e aplicações em embalagem e chávena.",
+   "r": "Escreve aqui o resultado ou o que aprendeste com este projecto.",
+   "b": "Logotipo, embalagem, uniformes e papelaria com carácter artesanal."
+  },
+  "livro": {
+   "t": "Livro de Apresentação",
+   "c": "Editorial · Publicação institucional",
+   "d": "Material institucional que une fotografia industrial e textos técnicos, com uma hierarquia visual clara e vibrante.",
+   "o": "Dar forma a uma publicação que equilibre conteúdo técnico e imagem, guiando a leitura com clareza.",
+   "a": "Capas, contraste tipográfico e blocos de imagem como ponto de partida editorial.",
+   "r": "Escreve aqui o resultado ou o que aprendeste com este projecto.",
+   "b": "Fotografia industrial e texto técnico numa hierarquia clara e vibrante."
+  }
+ },
+ "wa": "258871867072",
+ "img": {
+  "hero": {
+   "u": "uploads/hero.glb",
+   "m": 1
+  }
+ }
+}

@@ -1,0 +1,23 @@
+BIG DESIGNER · SITE DO LICON ABRÃO NHATAVE
+
+ESTRUTURA
+index.html        página principal
+css/style.css     todo o estilo (cores, layout, animações)
+js/script.js      comportamento do site (animações, habilidades, páginas dos projectos)
+content.json      textos e ficheiros usados no site
+uploads/          ficheiros usados pelo site (hero.glb = modelo 3D do topo, licon-hero.jpg = tua foto)
+images/           cópia da tua foto para guardares organizada
+admin/            painel de edição (precisa de token do GitHub)
+
+COMO PUBLICAR NO GITHUB PAGES
+1. Abre o repositório licon007.github.io (isto substitui o site actual).
+2. Add file > Upload files: arrasta TUDO o que está dentro desta pasta. Commit.
+3. Settings > Pages > Deploy from a branch > main / (root).
+
+COMO TESTAR NO COMPUTADOR
+Não abras index.html com duplo clique (o modelo 3D e content.json precisam de servidor).
+Na pasta, corre:  python3 -m http.server 8000   e abre http://localhost:8000
+
+TROCAR A FOTO OU O 3D DO TOPO
+Coloca o ficheiro em uploads/ e altera "hero" em content.json, por exemplo:
+"hero": {"u": "uploads/licon-hero.jpg", "m": 0}   (m:0 = imagem, m:1 = modelo 3D)
